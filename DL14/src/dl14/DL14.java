@@ -46,11 +46,6 @@ int max=arr[0];
     }            
       arr[maxIndex]=0;
 
-    for(int i=maxIndex+1;i<arr.length;i++){
-        for (int j = i+1; j < arr.length; j++) {
-            
-        }
-    }
 
         
     
