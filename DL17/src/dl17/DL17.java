@@ -39,7 +39,7 @@ public class DL17 {
     System.out.println("min="+min);
     for (int i=1;i<min;i++){
     if (i!=min){
-    System.out.println("Минимальное натуральное число которого нету:"+i);
+    System.out.println("Минимальное натуральное число которого нет:"+i);
     break;
     }
     }
